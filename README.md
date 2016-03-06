@@ -1,8 +1,8 @@
 # Rock On!
 ## Description
-This project is a simple game coded in C++. It's word-guessing game in which the program chooses
-a secret word between 4-6 letters (from a pre-selected list of words) and the player has to guess the word
-in order to win. This project tested our abilities and mechanics with C strings, the C string library, and 
+This project is a simple game coded in C++. It's a word guessing game in which the program chooses
+a secret word between 4-6 letters long (from a pre-selected list of words) and the player has to guess the word
+correctly in order to win. This project tested our abilities and mechanics with C strings, the C string library, and 
 functions.
 
 ## How to Play
@@ -22,13 +22,13 @@ file every time they want to play the game.
 The game starts off by asking you how many rounds of the game you want to play. After you have input
 the number of rounds you want to play, the game will select a word from its list of words
 and tell you how many letters are in the word. If you're interested in which words the game is given,
-it's contained in the libraryOfWords.txt file within the same Debug folder. From here, you can keep guessing
-the world until you guess it correctly. Until then, the game will give you two clues: the number of rocks and pebbles
-within you guess. The number of rocks tell you how many letters within your guess are in the right position. The
-number of pebbles tells you how many letters within your guess are correct, but are in the wrong position. You can use these
+it's contained in the libraryOfWords.txt file within the same Debug folder. From here, you can keep guessing probe
+words until you guess it correctly. Until then, the game will give you two clues: the number of rocks and pebbles
+within your guess. The number of rocks tells you how many letters within your probe word are in the right position. The
+number of pebbles tells you how many letters within your probe word are correct, but are in the wrong position. You can use these
 clues to guess the word.
 <br><br>
-Once you have guess the word, the game will print out some useful statistics for the player, signaling the end of 
+Once you have guessed the word, the game will print out some useful statistics, signaling the end of 
 the round. If there are still more rounds to play, it will immediately start the next round and choose a new word. If
-there aren't more rounds to play, the game will exit immediately. Become a master at this game, and you'll become
+there aren't any more rounds to play, the game will exit immediately. Become a master at this game, and you'll become
 a Geological HERO! Best of luck and have fun!
