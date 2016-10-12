@@ -10,6 +10,3 @@ The game can be played by running the executable within the **Debug** folder.
 ## Instructions
 The number of rocks in your guess is the number of correctly placed letters. The number
 of pebbles in your guess is the number of correct, but misplaced letters.
-
-## Screenshots
-![alt text](https://github.com/jeffreyxchan/Rocks-and-Pebbles/raw/master/rocks.png "Rocks and Pebbles")
